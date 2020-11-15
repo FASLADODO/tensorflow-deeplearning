@@ -1,5 +1,6 @@
 ### Deep Learning with TensorFlow
-- Introduction/Tutorial
+
+- Introduction/Tutorial + Fundamental
 
 - Multi-Layer Perceptrons (MLP): Classification and Regression
 
